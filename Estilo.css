@@ -1,0 +1,35 @@
+header{
+    background-color: blue;
+    color: black
+    padding: 30px 
+
+}
+nav{
+    background-color: brown
+    padding: 15px 
+
+}
+ul{
+    list-style: none; 
+
+}
+a{
+    text-decoration: none;
+}
+li{
+    margin: 40px;
+    display: inline;
+    text-align: justify;
+}
+p{
+    color: red 
+
+}
+body{
+    background-color: aquamarine; 
+    
+}
+*{
+    font-size: 24px; 
+    text-align: center;
+}
